@@ -1,0 +1,3 @@
+This is a suite for the test of tools related to the analysis of atmospheric Gradients using GPS Radio Occultations.
+The suite contains some basic tools, and calls reader routines. So far this is a working space, with no immediate
+intent to be a complete or selfconsistent package.
